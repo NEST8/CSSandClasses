@@ -1,0 +1,9 @@
+.external
+{
+	color: 404040;
+	font-size: 2em;
+}
+.external em
+{
+	color:red;
+}
